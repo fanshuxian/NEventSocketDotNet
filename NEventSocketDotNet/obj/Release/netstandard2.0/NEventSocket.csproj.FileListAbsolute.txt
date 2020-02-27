@@ -1,0 +1,7 @@
+F:\NEventSocket\obj\Release\netstandard2.0\NEventSocket.AssemblyInfoInputs.cache
+F:\NEventSocket\obj\Release\netstandard2.0\NEventSocket.AssemblyInfo.cs
+F:\NEventSocket\bin\Release\netstandard2.0\NEventSocket.deps.json
+F:\NEventSocket\bin\Release\netstandard2.0\NEventSocket.dll
+F:\NEventSocket\bin\Release\netstandard2.0\NEventSocket.pdb
+F:\NEventSocket\obj\Release\netstandard2.0\NEventSocket.dll
+F:\NEventSocket\obj\Release\netstandard2.0\NEventSocket.pdb

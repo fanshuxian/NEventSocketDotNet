@@ -1,0 +1,8 @@
+F:\NEventSocket\obj\Debug\netstandard2.0\NEventSocket.csprojAssemblyReference.cache
+F:\NEventSocket\obj\Debug\netstandard2.0\NEventSocket.AssemblyInfoInputs.cache
+F:\NEventSocket\obj\Debug\netstandard2.0\NEventSocket.AssemblyInfo.cs
+F:\NEventSocket\bin\Debug\netstandard2.0\NEventSocket.deps.json
+F:\NEventSocket\bin\Debug\netstandard2.0\NEventSocket.dll
+F:\NEventSocket\bin\Debug\netstandard2.0\NEventSocket.pdb
+F:\NEventSocket\obj\Debug\netstandard2.0\NEventSocket.dll
+F:\NEventSocket\obj\Debug\netstandard2.0\NEventSocket.pdb
